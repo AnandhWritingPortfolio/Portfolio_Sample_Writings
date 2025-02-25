@@ -1,3 +1,13 @@
 # heading is okay
-22
+# HEADING
+**bold**
+*italic*
+==highlight==
+~notsure~
+***bolditalcis***
+`code`
+> quote
+>
+> code
+
 ~~strikethru~~
